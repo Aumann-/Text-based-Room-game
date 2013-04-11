@@ -1,4 +1,4 @@
 Text-based-Room-game
 ====================
 
-Text game based off "You find yourself in a room."   Unfinished
+Interactive text based game written in C++. Inspired by "You find yourself in a room.", meant to be a single-player puzzle game. Never finished.
